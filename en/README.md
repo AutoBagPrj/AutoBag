@@ -1,1 +1,2 @@
-Tutorial is goining to be here in month.
+[Firts run](https://github.com/AutoBagPrj/AutoBag/blob/main/en/FirstRun)  
+[Updating](https://github.com/AutoBagPrj/AutoBag/tree/main/en/Update)
