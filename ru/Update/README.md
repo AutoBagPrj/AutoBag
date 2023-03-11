@@ -5,7 +5,7 @@
 - Пустая MicroSD карта памяти  
 - Кабель USB-A -- USB-B  
 ## Процесс обновления  
-1. Скачайте архив с новой версией ПО [здесь](https://raw.githubusercontent.com/AutoBagPrj/AutoBag/main/ru/Update/Update.zip) и Robotrack IDE [здесь](https://disk.yandex.ru/d/FEXCFbqGAmqDcw) 
+1. Скачайте архив с новой версией ПО [здесь](https://raw.githubusercontent.com/AutoBagPrj/AutoBag/main/ru/Update/AutoBag_Update.zip) и Robotrack IDE [здесь](https://disk.yandex.ru/d/FEXCFbqGAmqDcw) 
 2. Файл Horizontal.tft (Для горизонтальной ориентации дисплея) или Vertical.tft (Для вертикальной) запишите в корень карты памяти  
 3. Откройте файл **Source.ino** через Robotrack IDE, предварительно установив её  
 4. Подключите устройство кабелем к компьютеру и включите его
